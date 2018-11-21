@@ -1,9 +1,9 @@
 # PiSTB
 A Raspberry PI STB/IPTV Client
 
-###Features:
+## Features:
 
-  ###Has a very modern/great looking UI
+  ### Has a very modern/great looking UI
   
 1. App Store
 2. Netflix+Hulu+Youtube client included
