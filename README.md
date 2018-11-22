@@ -11,6 +11,3 @@ A Raspberry PI STB/IPTV Client
 6. FREE 1000% FREE NO ADS, NO PAID SH**!!! OPENSOURCE 4EVER!!!
 7. Work on all Raspberry PI Models!!!
 ### Has a very modern/great looking UI
-
-
-### Would like to have UI very close to http://www.gdocreative.be/en/portfolio/website/33-application-interface/82-ui-set-top-box-demo and have the app store and apps and dvr funcctions working and the parts with buy now to be removed
