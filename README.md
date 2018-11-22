@@ -1,5 +1,5 @@
 # PiSTB
-A Raspberry PI STB/IPTV Client Based OS
+A Raspberry PI STB
 
 ## Features:
   
