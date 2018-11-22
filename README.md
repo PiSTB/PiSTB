@@ -1,6 +1,6 @@
 # PiSTB
 A Raspberry PI STB
-
+![alt text](https://pbs.twimg.com/profile_images/1059394175597248513/MxhM2gTQ_400x400.jpg)
 ## Features:
   
 1. Has a recording feature
